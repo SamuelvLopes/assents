@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T19:08:18.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wNkk7FdJ4p7fUo8vBmtW" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T19:09:04.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Ugew_tlK1BAxLBVQ170d" version="15.9.1" type="github">
   <diagram id="C4NCunDjZwhNcrRaE-ae" name="Page-1">
     <mxGraphModel dx="989" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,6 +343,11 @@
             <mxPoint x="2800" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-129" value="Cliente Não está cadastrado" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-109" target="ljIURIseQbaij3t4hMxb-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2800" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-109" value="Insira seu Cnpj" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2560" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
@@ -398,6 +403,9 @@
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-127" value="Você já é um cliente cadastrado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2740" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="1209" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
