@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T17:13:18.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="aymW1AmubsRKs-bYMwK5" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T17:35:17.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NQt2vGJInfzQKG8NPAcU" version="15.9.1" type="github">
   <diagram id="C4NCunDjZwhNcrRaE-ae" name="Page-1">
     <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry x="1020" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-31" value="Certo, Você possui cnpj?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1450" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-36" value="Não encontrado&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-33" target="ljIURIseQbaij3t4hMxb-35">
           <mxGeometry relative="1" as="geometry">
@@ -149,11 +149,41 @@
         <mxCell id="ljIURIseQbaij3t4hMxb-43" value="Finalizar Ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-45" target="ljIURIseQbaij3t4hMxb-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-45" target="ljIURIseQbaij3t4hMxb-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-45" target="ljIURIseQbaij3t4hMxb-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-45" value="Status:&lt;br&gt;Nome:&lt;br&gt;Ultimo Pedido:&lt;br&gt;Inadimplente:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ljIURIseQbaij3t4hMxb-50" value="1." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="ljIURIseQbaij3t4hMxb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-50" target="ljIURIseQbaij3t4hMxb-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-50" value="1. Acompanhar Pedidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-51" value="2.Financeiro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-52" value="3.Fazer Novo Pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-58" target="ljIURIseQbaij3t4hMxb-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-58" value="Informações sobre pedidos&lt;br&gt;Posição | NF | Data | Valor | Numero&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="350" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-60" value="Se você deseja o detalhamento de um pedido por favor digite o numero do pedido." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="335" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
