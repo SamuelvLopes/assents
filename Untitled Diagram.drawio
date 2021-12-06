@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T19:19:04.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="CwO5aaVYISIo2x13NADh" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T19:20:58.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zH7bJSfmdnkWlGHmHrCR" version="15.9.1" type="github">
   <diagram id="C4NCunDjZwhNcrRaE-ae" name="Page-1">
     <mxGraphModel dx="989" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,8 +439,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-138" target="ljIURIseQbaij3t4hMxb-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-138" value="O telefone está certo?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3080" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-144" value="Em qual email posso enviar a sua nota fiscal?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
