@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T17:59:38.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="LE8WjThx4VqRKARScwYD" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T18:08:17.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="hCF39xWTJ6TtDValbXWa" version="15.9.1" type="github">
   <diagram id="C4NCunDjZwhNcrRaE-ae" name="Page-1">
     <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,8 +176,11 @@
         <mxCell id="ljIURIseQbaij3t4hMxb-51" value="2.Financeiro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-52" target="ljIURIseQbaij3t4hMxb-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-52" value="3.Fazer Novo Pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="649" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-58" target="ljIURIseQbaij3t4hMxb-60">
           <mxGeometry relative="1" as="geometry" />
@@ -214,7 +217,7 @@
         <mxCell id="ljIURIseQbaij3t4hMxb-67" value="TITULO| NF | Status | Valor&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="440" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ljIURIseQbaij3t4hMxb-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-69" target="ljIURIseQbaij3t4hMxb-72">
+        <mxCell id="ljIURIseQbaij3t4hMxb-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-69" target="ljIURIseQbaij3t4hMxb-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-69" value="Enviar comprovante de pagamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -230,7 +233,7 @@
           <mxGeometry x="1390" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-72" value="atendente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="649" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-77" target="ljIURIseQbaij3t4hMxb-45">
           <mxGeometry relative="1" as="geometry">
@@ -250,6 +253,15 @@
         </mxCell>
         <mxCell id="ljIURIseQbaij3t4hMxb-77" value="Você deseja mais alguma coisa?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljIURIseQbaij3t4hMxb-82" target="ljIURIseQbaij3t4hMxb-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-82" value="Você já pode enviar o comprovante e qualquer informação que julgue necessário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ljIURIseQbaij3t4hMxb-85" value="Aqui na nós contamos com alguns canais de venda.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="649" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
